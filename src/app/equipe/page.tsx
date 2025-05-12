@@ -120,7 +120,7 @@ export default function Equipe() {
 						</div>
 					</div>
 					<div className="my-20">
-						<h2 className="my-8 text-2xl text-center">Les Développeurs</h2>
+						<h2 className="my-8 text-2xl text-center">Les "Développeurs"</h2>
 						<div className="w-full flex gap-4 justify-around flex-wrap">
 							<div className="w-full max-w-sm bg-gray-800 border border-gray-700 rounded-lg shadow">
 								<div className="flex flex-col items-center pb-10">
